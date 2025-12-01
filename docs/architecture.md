@@ -12,7 +12,7 @@ graph TD
         note[Auditor / Attacker]
     
         Ubuntu[Ubuntu Server LTS]
-        style Ubuntu fill:#bbf,stroke:#333,stroke-width:2px
+        style Ubuntu fill:#28899d,stroke:#333,stroke-width:2px
         note2[Target / Web Server]
 
         Switch((Virtual Switch))
